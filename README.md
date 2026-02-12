@@ -53,8 +53,9 @@ Reusable modal component demonstrating event handling and overlay interaction in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat-cs02&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshat-cs02&show_icons=true&theme=default" />
 </p>
+
 
 ---
 

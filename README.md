@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akshat</h1>
 <h3 align="center">Frontend Explorer | Python Learner | CSE Student</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshat-cs02&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🧠 About Me

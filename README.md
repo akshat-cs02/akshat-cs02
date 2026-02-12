@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat</h1>
-<h3 align="center">Frontend Explorer | Python Learner | CSE Student</h3>
+<h3 align="center">Frontend Developer | Python Learner | Computer Science Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshat-cs02&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -10,9 +10,9 @@
 ## 🧠 About Me
 
 - 👨‍💻 Strengthening JavaScript fundamentals  
-- 🐍 Learning Python & Data Structures  
-- 🔧 Building frontend projects with HTML, CSS & JS  
-- 📚 Focused on writing clean, structured code  
+- 🐍 Learning Python and improving problem-solving skills  
+- 🔧 Building frontend projects using HTML, CSS & JavaScript  
+- 📚 Focused on writing clean, structured, and maintainable code  
 
 ---
 
@@ -57,16 +57,8 @@ Reusable modal component demonstrating event handling and overlay interaction in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshat-cs02&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshat-cs02&show_icons=true&theme=default&hide_border=true" />
 </p>
-
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/akshat-satsangi/  
-- Email: aakshat177@gmail.com  
 
 ---
 

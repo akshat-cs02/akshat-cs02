@@ -54,6 +54,15 @@ Reusable modal component demonstrating event handling and overlay interaction in
 
 ---
 
+### ✅ DailyTask Manager  
+A simple and responsive task management application built with vanilla JavaScript.  
+Users can add, delete, and mark tasks as completed, with data persistence using localStorage.  
+
+🔗 Live Demo: https://akshat-cs02.github.io/DailyTask-Manager/  
+🔗 Repository: https://github.com/akshat-cs02/DailyTask-Manager 
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">

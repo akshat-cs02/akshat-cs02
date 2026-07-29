@@ -19,6 +19,7 @@ I'm a B.Tech CSE student building stuff I actually want to use. Right now that's
 - 💬 Ask me about: Python, FastAPI, React, TypeScript, financial tech
 - ⚡ I learn way more from building broken things and fixing them than from tutorials
 - ☕ Powered by chai and late-night coding sessions
+- 🤝 Shoutout to the opencode team for the awesome tooling
 - 🏆 Working on unlocking GitHub achievements
 
 ---

@@ -1,74 +1,212 @@
-<h1 align="center">Hi 👋, I'm Akshat</h1>
-<h3 align="center">Frontend Developer | Python Learner | Computer Science Student</h3>
+<h1 align="center">Hi 👋, I'm Akshat Satsangi</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshat-cs02&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Data+%26+AI+Enthusiast;FastAPI+%7C+React+%7C+Python+%7C+TypeScript;Always+Learning+New+Technologies+🚀" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/akshat-cs02">
+<img src="https://img.shields.io/github/followers/akshat-cs02?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/akshat-cs02">
+<img src="https://komarev.com/ghpvc/?username=akshat-cs02&style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/akshat-satsangi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-## 🧠 About Me
+# 💫 About Me
 
-- 👨‍💻 Strengthening JavaScript fundamentals  
-- 🐍 Learning Python and improving problem-solving skills  
-- 🔧 Building frontend projects using HTML, CSS & JavaScript  
-- 📚 Focused on writing clean, structured, and maintainable code  
+💻 Computer Science Engineer
+
+🚀 Full Stack Developer
+
+🤖 AI & Machine Learning Enthusiast
+
+📊 Financial Analytics Explorer
+
+🐍 Python Developer
+
+⚡ Passionate about scalable backend systems
+
+🌱 Currently learning
+
+- System Design
+- Cloud Computing
+- Advanced Machine Learning
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
+
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,sql"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,vite"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
+
+</p>
+
+### AI & Data
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+Pandas • NumPy • XGBoost • Matplotlib • Seaborn
+
+### DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux"/>
+
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 🌟 Featured Projects
 
-### 🎯 Guess My Number  
-Interactive number guessing game with score tracking and localStorage high score feature.  
+## 📈 FinSight AI
 
-🔗 Live Demo: https://akshat-cs02.github.io/guess-my-number/  
-🔗 Repository: https://github.com/akshat-cs02/guess-my-number  
+> AI-powered Financial Intelligence Platform
 
----
+✨ Features
 
-### 🎲 Two Player Dice Game  
-Two-player browser-based dice game implementing JavaScript game logic and DOM manipulation.  
+- Live Stock Market Dashboard
+- AI Price Prediction (LSTM + XGBoost)
+- BUY / SELL / HOLD Signals
+- 12+ Technical Indicators
+- FastAPI Backend
+- React + TypeScript Frontend
+- Docker Deployment
 
-🔗 Live Demo: https://akshat-cs02.github.io/two-player-dice-game/  
-🔗 Repository: https://github.com/akshat-cs02/two-player-dice-game  
-
----
-
-### 🪟 Custom Modal UI  
-Reusable modal component demonstrating event handling and overlay interaction in Vanilla JavaScript.  
-
-🔗 Live Demo: https://akshat-cs02.github.io/custom-modal-ui/  
-🔗 Repository: https://github.com/akshat-cs02/custom-modal-ui  
+🔗 https://github.com/akshat-cs02/FinSight
 
 ---
 
-### ✅ DailyTask Manager  
-A simple and responsive task management application built with vanilla JavaScript.  
-Users can add, delete, and mark tasks as completed, with data persistence using localStorage.  
+## 💼 AI Job Search Assistant
 
-🔗 Live Demo: https://akshat-cs02.github.io/DailyTask-Manager/  
-🔗 Repository: https://github.com/akshat-cs02/DailyTask-Manager 
+AI-powered Job Search & Recommendation Platform
+
+- TypeScript
+- AI Integration
+- Modern UI
+
+🔗 https://github.com/akshat-cs02/ai-job-search-opencode
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Smart Academic Record Management
+
+- CRUD Operations
+- MongoDB
+- Responsive Design
+- HTML CSS JavaScript
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshat-cs02&show_icons=true&theme=default&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=akshat-cs02&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-cs02&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-⭐ Learning consistently and building step by step.
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=akshat-cs02&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akshat-cs02&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-cs02&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+✅ Oracle Cloud Infrastructure AI
+
+✅ Columbia University Machine Learning
+
+✅ Cisco Cybersecurity Essentials
+
+✅ Fortinet NSE2 Network Security Associate
+
+---
+
+# 📫 Connect With Me
+
+📧 **akshatsatsangi06@gmail.com**
+
+💼 LinkedIn
+
+https://linkedin.com/in/akshat-satsangi
+
+🌐 GitHub
+
+https://github.com/akshat-cs02
+
+---
+
+<h3 align="center">
+⭐ Building impactful software, one commit at a time.
+</h3>

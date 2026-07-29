@@ -54,13 +54,13 @@ fun_fact: "I learn more from building than textbooks"
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshat-cs02&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-cs02&theme=dark&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=8B949E&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akshat-cs02&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=akshat-cs02&theme=dark&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=8B949E&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-cs02&layout=compact&theme=dark&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&hide_border=true" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=akshat-cs02&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akshat-cs02&layout=compact&theme=dark&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&hide_border=true" />
+  <img width="49%" src="https://github-profile-trophy-eight.vercel.app/?username=akshat-cs02&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" />
 </p>
 
 ---
@@ -85,10 +85,10 @@ fun_fact: "I learn more from building than textbooks"
 
 <p align="center">
   <a href="https://github.com/akshat-cs02/ai-job-search-opencode">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akshat-cs02&repo=ai-job-search-opencode&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=akshat-cs02&repo=ai-job-search-opencode&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide_border=true" />
   </a>
   <a href="https://github.com/akshat-cs02/FinSight-AI">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akshat-cs02&repo=FinSight-AI&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=akshat-cs02&repo=FinSight-AI&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide_border=true" />
   </a>
 </p>
 

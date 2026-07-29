@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Akshat Satsangi</h1>
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Data+%26+AI+Enthusiast;FastAPI+%7C+React+%7C+Python+%7C+TypeScript;Always+Learning+New+Technologies+🚀" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Akshat%20Satsangi&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20|%20Full%20Stack%20Developer%20|%20Data%20%26%20AI%20Enthusiast&descAlignY=58"/>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/akshat-cs02">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Software+Developer;Full+Stack+Developer;FastAPI+%7C+React+Developer;Data+Analytics+%26+Machine+Learning;Building+Scalable+Applications"/>
+</a>
+
 </p>
 
 <p align="center">
@@ -11,90 +19,72 @@
 </a>
 
 <a href="https://github.com/akshat-cs02">
-<img src="https://komarev.com/ghpvc/?username=akshat-cs02&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/akshat-cs02?affiliations=OWNER&style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/akshat-satsangi">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="mailto:akshatsatsangi06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=akshat-cs02&style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-💻 Computer Science Engineer
+```python
+class Akshat:
 
-🚀 Full Stack Developer
+    education = "B.Tech Computer Science"
 
-🤖 AI & Machine Learning Enthusiast
+    interests = [
+        "Software Engineering",
+        "Backend Development",
+        "Artificial Intelligence",
+        "Data Analytics",
+        "Financial Technology"
+    ]
 
-📊 Financial Analytics Explorer
+    currently_learning = [
+        "System Design",
+        "Cloud Computing",
+        "Advanced Machine Learning"
+    ]
 
-🐍 Python Developer
-
-⚡ Passionate about scalable backend systems
-
-🌱 Currently learning
-
-- System Design
-- Cloud Computing
-- Advanced Machine Learning
+    ask_me_about = [
+        "Python",
+        "FastAPI",
+        "React",
+        "TypeScript",
+        "MongoDB",
+        "Docker"
+    ]
+```
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,javascript,nodejs,mongodb,mysql,sqlite,docker,git,github,linux,postman,vscode,tensorflow"/>
 
 </p>
 
-### Frontend
+### 📊 Data & AI
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,vite"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
-
-</p>
-
-### AI & Data
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-</p>
-
-Pandas • NumPy • XGBoost • Matplotlib • Seaborn
-
-### DevOps & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux"/>
-
-</p>
+- Pandas
+- NumPy
+- TensorFlow
+- XGBoost
+- Matplotlib
+- Seaborn
 
 ---
 
@@ -102,17 +92,21 @@ Pandas • NumPy • XGBoost • Matplotlib • Seaborn
 
 ## 📈 FinSight AI
 
-> AI-powered Financial Intelligence Platform
+> AI-Powered Financial Intelligence Platform
 
-✨ Features
+✔ Live Stock Dashboard
 
-- Live Stock Market Dashboard
-- AI Price Prediction (LSTM + XGBoost)
-- BUY / SELL / HOLD Signals
-- 12+ Technical Indicators
-- FastAPI Backend
-- React + TypeScript Frontend
-- Docker Deployment
+✔ AI Price Prediction
+
+✔ LSTM + XGBoost
+
+✔ FastAPI Backend
+
+✔ React + TypeScript
+
+✔ Docker Deployment
+
+✔ Technical Indicators
 
 🔗 https://github.com/akshat-cs02/FinSight
 
@@ -120,11 +114,13 @@ Pandas • NumPy • XGBoost • Matplotlib • Seaborn
 
 ## 💼 AI Job Search Assistant
 
-AI-powered Job Search & Recommendation Platform
+AI-powered Job Search Platform
 
-- TypeScript
-- AI Integration
-- Modern UI
+✔ TypeScript
+
+✔ AI Integration
+
+✔ Modern UI
 
 🔗 https://github.com/akshat-cs02/ai-job-search-opencode
 
@@ -132,46 +128,45 @@ AI-powered Job Search & Recommendation Platform
 
 ## 🎓 Smart Academic Record Management
 
-- CRUD Operations
-- MongoDB
-- Responsive Design
-- HTML CSS JavaScript
+✔ CRUD
+
+✔ MongoDB
+
+✔ Responsive UI
+
+✔ HTML CSS JavaScript
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akshat-cs02&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshat-cs02&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-cs02&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-cs02&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=akshat-cs02&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=akshat-cs02&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akshat-cs02&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akshat-cs02&theme=tokyonight&column=7&no-frame=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -181,32 +176,64 @@ AI-powered Job Search & Recommendation Platform
 
 ---
 
+# 🛠 Tools I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,github,git,docker,postman,linux"/>
+
+</p>
+
+---
+
 # 📜 Certifications
 
-✅ Oracle Cloud Infrastructure AI
+🏅 Oracle Cloud Infrastructure AI
 
-✅ Columbia University Machine Learning
+🏅 Columbia University Machine Learning
 
-✅ Cisco Cybersecurity Essentials
+🏅 Cisco Cybersecurity Essentials
 
-✅ Fortinet NSE2 Network Security Associate
+🏅 Fortinet NSE2 Network Security Associate
 
 ---
 
 # 📫 Connect With Me
 
-📧 **akshatsatsangi06@gmail.com**
+<p align="center">
 
-💼 LinkedIn
+<a href="mailto:akshatsatsangi06@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
 
-https://linkedin.com/in/akshat-satsangi
+<a href="https://linkedin.com/in/akshat-satsangi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+</a>
 
-🌐 GitHub
+<a href="https://github.com/akshat-cs02">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"/>
+</a>
 
-https://github.com/akshat-cs02
+</p>
 
 ---
 
-<h3 align="center">
-⭐ Building impactful software, one commit at a time.
-</h3>
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
+
+</p>

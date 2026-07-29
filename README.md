@@ -27,7 +27,22 @@ I'm a B.Tech CSE student building stuff I actually want to use. Right now that's
   <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,js,html,css,tailwind,nodejs,nextjs,mongodb,postgres,mysql,sqlite,docker,git,github,linux,vscode,postman&perline=10" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 ---
+
+**GitHub Stats**
 
 **GitHub Stats**
 
@@ -39,6 +54,14 @@ I'm a B.Tech CSE student building stuff I actually want to use. Right now that's
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akshat-cs02&layout=compact&theme=dark&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&hide_border=true" />
   <img width="49%" src="https://github-profile-trophy-eight.vercel.app/?username=akshat-cs02&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/akshat-cs02?style=for-the-badge&logo=github&color=00D4FF" />
+  <img src="https://img.shields.io/github/last-commit/akshat-cs02/akshat-cs02?style=for-the-badge&logo=github&color=00D4FF" />
+  <img src="https://img.shields.io/github/commit-activity/m/akshat-cs02/FinSight?style=for-the-badge&logo=github&color=00D4FF" />
 </p>
 
 ---

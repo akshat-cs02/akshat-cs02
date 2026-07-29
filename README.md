@@ -12,46 +12,24 @@
   <a href="https://fin-sight-blush.vercel.app/"><img src="https://img.shields.io/badge/FinSight%20AI-00D4FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
----
+I'm a B.Tech CSE student building stuff I actually want to use. Right now that's **FinSight** — an AI-powered financial analytics platform with live market data, LSTM predictions, and a bunch of technical indicators. I work across the stack (Python, React, TypeScript) and I'm always tinkering with something new.
 
-## ⚡ About Me
-
-```yaml
-name: Akshat Satsangi
-location: Bangalore, India
-education: B.Tech CSE (2026)
-current_focus:
-  - Building FinSight AI — a financial intelligence platform
-  - Full-Stack Development with Python, React, TypeScript
-  - AI/ML model deployment & data pipelines
-
-interests:
-  - Web Development  |  AI & Machine Learning  |  FinTech
-  - Open Source      |  System Design          |  Data Engineering
-
-fun_fact: "I learn more from building than textbooks"
-```
+- 🔭 Working on: FinSight AI and an opencode-based AI job search tool
+- 🌱 Learning: system design, cloud infra, more ML deployment patterns
+- 💬 Ask me about: Python, FastAPI, React, TypeScript, financial tech
+- ⚡ I learn way more from building broken things and fixing them than from tutorials
 
 ---
 
-## 🛠️ Tech Stack
+**Languages & Tools**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,js,html,css,tailwind,nodejs,nextjs,mongodb,postgres,mysql,sqlite,docker,git,github,linux,vscode,postman&perline=10" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
-
 ---
 
-## 📊 GitHub Analytics
+**GitHub Stats**
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akshat-cs02&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide_border=true" />
@@ -65,7 +43,7 @@ fun_fact: "I learn more from building than textbooks"
 
 ---
 
-## 📈 Contribution Graph
+**Activity**
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-cs02&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" />
@@ -73,7 +51,7 @@ fun_fact: "I learn more from building than textbooks"
 
 ---
 
-## 🐍 Contribution Snake
+**Snake eating my contributions**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshat-cs02/akshat-cs02/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -81,34 +59,34 @@ fun_fact: "I learn more from building than textbooks"
 
 ---
 
-## 🚀 Featured Projects
+**Projects I'm working on**
 
 <p align="center">
+  <a href="https://github.com/akshat-cs02/FinSight">
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=akshat-cs02&repo=FinSight&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide_border=true" />
+  </a>
   <a href="https://github.com/akshat-cs02/ai-job-search-opencode">
     <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=akshat-cs02&repo=ai-job-search-opencode&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide_border=true" />
-  </a>
-  <a href="https://github.com/akshat-cs02/FinSight-AI">
-    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=akshat-cs02&repo=FinSight-AI&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide_border=true" />
   </a>
 </p>
 
 ---
 
-## 📜 Certifications
+**Certifications**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Columbia%20University-00D4FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity%20Essentials-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20AI-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/Network%20Security%20NSE2-Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/NSE2%20Network%20Security-Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Front%20End%20Development-Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Risk%20Management-TCS%20iON-00897B?style=for-the-badge&logo=tcs&logoColor=white" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+**Connect**
 
 <p align="center">
   <a href="https://linkedin.com/in/akshat-satsangi">

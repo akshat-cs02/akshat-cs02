@@ -18,6 +18,7 @@ I'm a B.Tech CSE student building stuff I actually want to use. Right now that's
 - 🌱 Learning: system design, cloud infra, more ML deployment patterns
 - 💬 Ask me about: Python, FastAPI, React, TypeScript, financial tech
 - ⚡ I learn way more from building broken things and fixing them than from tutorials
+- 🏆 Working on unlocking GitHub achievements (YOLO, Quickdraw, Pull Shark)
 
 ---
 

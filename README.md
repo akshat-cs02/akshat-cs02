@@ -59,6 +59,8 @@ class Akshat:
         "MongoDB",
         "Docker"
     ]
+
+    motto = "Building impactful software one commit at a time."
 ```
 
 ---
@@ -82,88 +84,93 @@ class Akshat:
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
 ## 📈 FinSight AI
 
-AI-powered Financial Intelligence Platform
+🚀 AI Powered Financial Intelligence Platform
 
-- FastAPI Backend
-- React + TypeScript
-- Docker
-- AI Price Prediction
-- LSTM
-- XGBoost
-- Technical Indicators
-- Live Market Dashboard
+### Features
 
-🔗 https://github.com/akshat-cs02/FinSight
+- 📈 Live Stock Dashboard
+- 🤖 AI Price Prediction
+- 🧠 LSTM + XGBoost
+- ⚡ FastAPI Backend
+- ⚛️ React + TypeScript
+- 🐳 Docker Deployment
+- 📊 Technical Indicators
+- 📡 Real-time Market Data
+
+🔗 Repository
+
+https://github.com/akshat-cs02/FinSight
 
 ---
 
 ## 💼 AI Job Search Assistant
 
-- AI Powered Job Search
+AI Powered Job Search Platform
+
 - TypeScript
+- AI Integration
 - Modern UI
 
-🔗 https://github.com/akshat-cs02/ai-job-search-opencode
+🔗 Repository
+
+https://github.com/akshat-cs02/ai-job-search-opencode
 
 ---
 
-## 🎓 Smart Academic Record Management
+## 🎓 Smart Academic Record Management System
 
-- CRUD
+- CRUD Operations
 - MongoDB
+- Responsive UI
 - HTML
 - CSS
 - JavaScript
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshat-cs02&show_icons=true&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshat-cs02&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-cs02&layout=compact&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-cs02&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=akshat-cs02&theme=github-dark-blue"/>
+<img src="https://streak-stats.demolab.com?user=akshat-cs02&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akshat-cs02&theme=algolia&column=4&margin-w=20&margin-h=20"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akshat-cs02&theme=algolia&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 💻 Languages
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-cs02&theme=github-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-cs02&layout=donut&theme=github_dark"/>
 
 </p>
 
 ---
 
-# 💻 Languages & Tools
+# 🛠 Tools
 
 <p align="center">
 
@@ -185,7 +192,18 @@ AI-powered Financial Intelligence Platform
 
 ---
 
-# 🌐 Connect With Me
+# 📌 Current Focus
+
+- 🚀 Building FinSight AI
+- 📊 Financial Analytics
+- 🤖 Machine Learning
+- 🐳 Docker
+- ☁️ Cloud Computing
+- ⚙️ System Design
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -205,17 +223,10 @@ AI-powered Financial Intelligence Platform
 
 ---
 
-## 📌 Current Focus
-
-- 🚀 Building **FinSight AI**
-- 📊 Exploring Financial AI
-- 🧠 Improving System Design
-- ⚡ Open to Software Development Opportunities
-
----
-
 <div align="center">
 
-### ⭐ "Building impactful software, one commit at a time."
+### 💙 Thanks for visiting my profile!
+
+⭐ If you like my work, consider starring my repositories.
 
 </div>
